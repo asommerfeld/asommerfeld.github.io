@@ -1,0 +1,40 @@
+├── index.html
+├── images/
+│   ├── logos/
+│   │   ├── instagram.png
+│   │   ├── mastodon.png
+│   │   ├── linkedin.png
+│   │   └── facebook.png
+│   ├── header-image.jpg
+│   └── header-image.png
+├── prospective/
+│   ├── winter-o-phase.html
+│   ├── decision-support.html
+│   ├── enrollment-procedure.html
+│   ├── trial-studies.html
+│   ├── bridge-courses.html
+│   ├── ersti-einstein.html
+│   ├── ewo.html
+│   └── suggested-timetables.html
+├── template.html
+├── assets/
+│   ├── styles.css
+│   ├── script.js
+│   ├── components/
+│   │   ├── footer-de.html
+│   │   ├── footer-en.html
+│   │   ├── nav-de.html
+│   │   ├── nav-en.html
+│   │   ├── loadComponents.js
+│   │   └── footer.html
+├── .mapping-ignore
+├── translations/
+│   ├── de/
+│   │   ├── general.json
+│   │   ├── about.json
+│   │   └── home.json
+│   ├── en/
+│   │   ├── general.json
+│   │   ├── about.json
+│   │   └── home.json
+└── .idea/
